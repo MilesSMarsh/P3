@@ -84,6 +84,8 @@ def attack_largest_growth_rate(state):
         key=lambda p: p.growth_rate,
         default=None,
     )
+
+
     if not strongest_planet or not largest_growth_planet:
         # No legal source or destination
         return False

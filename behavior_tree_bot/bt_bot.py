@@ -38,7 +38,7 @@ def setup_behavior_tree():
 
     send_units_LGR = Action(send_to_closest_LGR)
 
-    root.child_nodes = [offensive_plan, consolidate_action, send_units_LGR]
+    root.child_nodes = [offensive_plan, consolidate_sequence, send_units_LGR]
 
     logging.info("\n" + root.tree_to_string())
     return root
