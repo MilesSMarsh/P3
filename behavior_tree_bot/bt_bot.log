@@ -1,752 +1,2636 @@
 INFO:root:
 Selector: High Level Ordering of Strategies
-| Sequence: Find LGR
-| | Check: check_if_LGR
-| | Action: attack_largest_growth_rate
-| Action: consolidate
-| Action: send_to_closest_LGR
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 50.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 52.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 55.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 57.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 60.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 62.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 65.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 67.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 70.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 72.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 75.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 77.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 80.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 82.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 85.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 87.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 90.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 92.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 95.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 97.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 100.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 102.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 105.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 107.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 110.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 112.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 115.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 117.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 120.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 122.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 125.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 127.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 130.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 132.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+| Sequence: spread
+| | Check: have_small_amount_of_planets
+| | Selector: spread_selector
+| | | Sequence: neutral_sequence
+| | | | Check: neutral_planets_left
+| | | | Action: spread_to_weakest_neutral_planet
+| | | Action: attack_weakest_enemy_planet
+| Action: attack_weakest_enemy_planet
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Order:1 17 50.0
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Success
+DEBUG:root:Result: Sequence: neutral_sequence -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Order:1 18 67.5
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Success
+DEBUG:root:Result: Sequence: neutral_sequence -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Order:1 6 51.5
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Success
+DEBUG:root:Result: Sequence: neutral_sequence -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Order:1 19 53.5
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Success
+DEBUG:root:Result: Sequence: neutral_sequence -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Order:1 19 49.5
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Success
+DEBUG:root:Result: Sequence: neutral_sequence -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Order:18 21 58.0
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Success
+DEBUG:root:Result: Sequence: neutral_sequence -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Order:1 21 60.0
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Success
+DEBUG:root:Result: Sequence: neutral_sequence -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Order:17 3 68.5
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Success
+DEBUG:root:Result: Sequence: neutral_sequence -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Order:1 4 72.5
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Success
+DEBUG:root:Result: Sequence: neutral_sequence -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Order:18 4 57.0
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Success
+DEBUG:root:Result: Sequence: neutral_sequence -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Order:1 8 66.5
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Success
+DEBUG:root:Result: Sequence: neutral_sequence -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Success
+DEBUG:root:Executing:Action: spread_to_weakest_neutral_planet
+DEBUG:root:Result: Action: spread_to_weakest_neutral_planet -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Order:1 17 88.5
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Order:17 8 15.5
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Success
+DEBUG:root:Result: Selector: spread_selector -> Success
+DEBUG:root:Result: Sequence: spread -> Success
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: High Level Ordering of Strategies
+DEBUG:root:Executing:Sequence: spread
+DEBUG:root:Executing:Check: have_small_amount_of_planets
+DEBUG:root:Result: Check: have_small_amount_of_planets -> Success
+DEBUG:root:Executing:Selector: spread_selector
+DEBUG:root:Executing:Sequence: neutral_sequence
+DEBUG:root:Executing:Check: neutral_planets_left
+DEBUG:root:Result: Check: neutral_planets_left -> Failure
+DEBUG:root:Result: Sequence: neutral_sequence -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: spread_selector -> Failure
+DEBUG:root:Result: Sequence: spread -> Failure
+DEBUG:root:Executing:Action: attack_weakest_enemy_planet
+DEBUG:root:Result: Action: attack_weakest_enemy_planet -> Failure
+DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 135.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 137.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 140.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 142.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 145.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 147.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 150.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 152.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 155.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 157.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 160.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 162.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 165.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 167.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 170.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 172.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 175.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 177.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 180.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 182.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 185.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 187.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 190.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 192.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 195.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 197.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 200.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 202.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 205.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 207.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 210.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 212.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 215.0
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success
-DEBUG:root:Result: Sequence: Find LGR -> Success
-DEBUG:root:Result: Selector: High Level Ordering of Strategies -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: High Level Ordering of Strategies
-DEBUG:root:Executing:Sequence: Find LGR
-DEBUG:root:Executing:Check: check_if_LGR
-DEBUG:root:Result: Check: check_if_LGR -> Success
-DEBUG:root:Executing:Action: attack_largest_growth_rate
-DEBUG:root:Order:1 1 217.5
-DEBUG:root:Result: Action: attack_largest_growth_rate -> Success

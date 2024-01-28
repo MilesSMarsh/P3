@@ -10,20 +10,8 @@ def have_largest_fleet(state):
     )
 
 
-def have_smaller_fleet(state):
-    return not (
-        sum(planet.num_ships for planet in state.my_planets())
-        + sum(fleet.num_ships for fleet in state.my_fleets())
-        > sum(planet.num_ships for planet in state.enemy_planets())
-        + sum(fleet.num_ships for fleet in state.enemy_fleets())
-    )
+def have_small_amount_of_planets(state):
+    return len(state.my_planets()) < 5
 
-
-def check_if_LGR(state):
-    largest_growth_planet = max(
-        state.my_planets() + state.not_my_planets(),
-        key=lambda p: p.growth_rate,
-        default=None,
-    )
-
-    return largest_growth_planet in state.my_planets()
+def neutral_planets_left(state):
+    return len(state.neutral_planets()) > 0

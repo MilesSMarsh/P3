@@ -26,19 +26,22 @@ def setup_behavior_tree():
     # Top-down construction of behavior tree
     root = Selector(name="High Level Ordering of Strategies")
 
-    offensive_plan = Sequence(name="Find LGR")
-    have_LGR = Check(check_if_LGR)
-    attack = Action(attack_largest_growth_rate)
-    offensive_plan.child_nodes = [have_LGR, attack]
+    spread_sequence = Sequence(name="spread")
 
-    consolidate_sequence = Sequence(name="Consolidate")
-    check_if_smaller_fleet = Check(have_smaller_fleet)
-    consolidate_action = Action(consolidate)
-    consolidate_sequence.child_nodes = [check_if_smaller_fleet, consolidate_action]
+    check_amount_of_planets = Check(have_small_amount_of_planets)
+    spread_selector = Selector(name="spread_selector")
 
-    send_units_LGR = Action(send_to_closest_LGR)
+    neutral_sequence = Sequence(name="neutral_sequence")
+    enemy_spread_action = Action(attack_weakest_enemy_planet)
 
-    root.child_nodes = [offensive_plan, consolidate_sequence, send_units_LGR]
+    neutral_exist = Check(neutral_planets_left)
+    neutral_spread_action = Action(spread_to_weakest_neutral_planet)
+
+    neutral_sequence.child_nodes = [neutral_exist, neutral_spread_action]
+    spread_selector.child_nodes = [neutral_sequence, enemy_spread_action]
+    spread_sequence.child_nodes = [check_amount_of_planets, spread_selector]
+
+    root.child_nodes = [spread_sequence, enemy_spread_action]
 
     logging.info("\n" + root.tree_to_string())
     return root
