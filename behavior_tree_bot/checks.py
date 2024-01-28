@@ -13,5 +13,13 @@ def have_largest_fleet(state):
 def have_small_amount_of_planets(state):
     return len(state.my_planets()) < 5
 
+
 def neutral_planets_left(state):
     return len(state.neutral_planets()) > 0
+
+
+def check_has_LGR(state):
+    own_growth = sum(p.growth_rate for p in state.my_planets())
+    enemy_growth = sum(p.growth_rate for p in state.enemy_planets())
+
+    return own_growth >= enemy_growth

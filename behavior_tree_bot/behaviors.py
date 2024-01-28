@@ -63,7 +63,11 @@ def attack_closest_neutral(state):
     strongest_planet = max(state.my_planets(), key=lambda t: t.num_ships, default=None)
 
     # (3) Find the closest enemy planet.
-    closest_planet = min(state.neutral_planets(), key=lambda t: state.distance(strongest_planet, t), default=None)
+    closest_planet = min(
+        state.neutral_planets(),
+        key=lambda t: state.distance(strongest_planet, t),
+        default=None,
+    )
 
     if not strongest_planet or not closest_planet:
         # No legal source or destination
@@ -76,7 +80,8 @@ def attack_closest_neutral(state):
             closest_planet.ID,
             strongest_planet.num_ships / 2,
         )
-    
+
+
 def attack_closest_enemy(state):
     # (1) If we currently have a fleet in flight, abort plan.
     # if len(state.my_fleets()) >= 1:
@@ -86,7 +91,11 @@ def attack_closest_enemy(state):
     strongest_planet = max(state.my_planets(), key=lambda t: t.num_ships, default=None)
 
     # (3) Find the closest enemy planet.
-    closest_planet = min(state.enemy_planets(), key=lambda t: state.distance(strongest_planet, t), default=None)
+    closest_planet = min(
+        state.enemy_planets(),
+        key=lambda t: state.distance(strongest_planet, t),
+        default=None,
+    )
 
     if not strongest_planet or not closest_planet:
         # No legal source or destination
@@ -99,3 +108,23 @@ def attack_closest_enemy(state):
             closest_planet.ID,
             strongest_planet.num_ships / 2,
         )
+
+
+def attack_largest_growth_rate(state):
+    strongest_planet = max(state.my_planets(), key=lambda p: p.num_ships, default=None)
+
+    largest_growth_planet = max(
+        state.my_planets() + state.not_my_planets(),
+        key=lambda p: p.growth_rate,
+        default=None,
+    )
+    if not strongest_planet or not largest_growth_planet:
+        # No legal source or destination
+        return False
+
+    return issue_order(
+        state,
+        strongest_planet.ID,
+        largest_growth_planet.ID,
+        strongest_planet.num_ships / 2,
+    )

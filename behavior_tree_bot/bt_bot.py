@@ -41,7 +41,16 @@ def setup_behavior_tree():
     spread_selector.child_nodes = [neutral_sequence, enemy_spread_action]
     spread_sequence.child_nodes = [check_amount_of_planets, spread_selector]
 
-    root.child_nodes = [spread_sequence, enemy_spread_action]
+    attacking_selector = Selector(name="attacking selector")
+    larger_growth_sequence = Sequence()
+    check_growth_node = Check(check_has_LGR)
+    attack_largest_enemy = Action(attack_largest_growth_rate)
+    attack_smallest_enemy = Action(attack_weakest_enemy_planet)
+
+    larger_growth_sequence.child_nodes = [check_growth_node, attack_largest_enemy]
+    attacking_selector.child_nodes = [larger_growth_sequence, attack_smallest_enemy]
+
+    root.child_nodes = [spread_sequence, attacking_selector, enemy_spread_action]
 
     logging.info("\n" + root.tree_to_string())
     return root
