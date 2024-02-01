@@ -23,3 +23,24 @@ def check_has_LGR(state):
     enemy_growth = sum(p.growth_rate for p in state.enemy_planets())
 
     return own_growth >= enemy_growth
+
+
+def check_ships(state):
+    strongest_planet = max(state.my_planets(), key=lambda p: p.num_ships, default=None)
+
+    if not strongest_planet:
+        return False
+    closest_planet = min(
+        state.neutral_planets() + state.enemy_planets(),
+        key=lambda t: state.distance(strongest_planet.ID, t.ID),
+        default=None,
+    )
+    if not closest_planet:
+        return False
+    return (
+        strongest_planet.num_ships
+        > closest_planet.num_ships
+        + state.distance(strongest_planet.ID, closest_planet.ID)
+        * closest_planet.growth_rate
+        + 1
+    )

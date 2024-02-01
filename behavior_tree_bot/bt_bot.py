@@ -29,28 +29,20 @@ def setup_behavior_tree():
     spread_sequence = Sequence(name="spread")
 
     check_amount_of_planets = Check(have_small_amount_of_planets)
-    spread_selector = Selector(name="spread_selector")
+    capture_weakest_neurtal = Action(spread_to_weakest_neutral_planet)
 
-    neutral_sequence = Sequence(name="neutral_sequence")
-    enemy_spread_action = Action(attack_weakest_enemy_planet)
+    spread_sequence.child_nodes = [check_amount_of_planets, capture_weakest_neurtal]
 
-    neutral_exist = Check(neutral_planets_left)
-    neutral_spread_action = Action(spread_to_weakest_neutral_planet)
+    attack_sequence = Sequence(name="attack")
 
-    neutral_sequence.child_nodes = [neutral_exist, neutral_spread_action]
-    spread_selector.child_nodes = [neutral_sequence, enemy_spread_action]
-    spread_sequence.child_nodes = [check_amount_of_planets, spread_selector]
+    check_have_enough_ships = Check(check_ships)
+    send_ships = Action(attack_closest)
 
-    attacking_selector = Selector(name="attacking selector")
-    larger_growth_sequence = Sequence()
-    check_growth_node = Check(check_has_LGR)
-    attack_largest_enemy = Action(attack_largest_growth_rate)
-    attack_smallest_enemy = Action(attack_weakest_enemy_planet)
+    attack_sequence.child_nodes = [check_have_enough_ships, send_ships]
 
-    larger_growth_sequence.child_nodes = [check_growth_node, attack_largest_enemy]
-    attacking_selector.child_nodes = [larger_growth_sequence, attack_smallest_enemy]
+    reinforce_ships = Action(reinforce)
 
-    root.child_nodes = [spread_sequence, attacking_selector, enemy_spread_action]
+    root.child_nodes = [spread_sequence, attack_sequence, reinforce_ships]
 
     logging.info("\n" + root.tree_to_string())
     return root
